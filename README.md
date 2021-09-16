@@ -10,7 +10,8 @@
 
 ## **GitHub Statistics**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uprightclear&theme=radical&show_icons=true) ![Okami](https://github-readme-stats.vercel.app/api/top-langs/?username=uprightclear&hide=html&layout=compact&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uprightclear&show_icons=true) 
+![Okami](https://github-readme-stats.vercel.app/api/top-langs/?username=uprightclear&hide=html&layout=compact)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uprightclear&theme=vue)
 
 
