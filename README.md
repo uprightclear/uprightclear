@@ -1,10 +1,17 @@
 ### Hi there 👋
 
+
+
 ## **My Sociais!**
 
 <a href="https://www.linkedin.com/in/jiqingsun/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/uprightclear_sun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.facebook.com/uprightclear.sun/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+
+## **GitHub Estatísticas**
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uprightclear&theme=radical&show_icons=true) ![Okami](https://github-readme-stats.vercel.app/api/top-langs/?username=uprightclear&hide=html&layout=compact&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uprightclear&theme=monokai)
 
 
 <!--
