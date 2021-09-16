@@ -14,7 +14,7 @@
 
 ![Okami](https://github-readme-stats.vercel.app/api/top-langs/?username=uprightclear&hide=html&layout=compact) -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uprightclear&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uprightclear&theme=monokai)
 
 
 <!--
