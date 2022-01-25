@@ -9,6 +9,17 @@
 <a href="https://www.instagram.com/uprightclear_sun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.facebook.com/uprightclear.sun/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 
+
+## **Technical Skills**
+**Languages:** Java, PHP, C, Python, JavaScript, C++, Go  
+
+**Web Frameworks:** React, Redux, Bootstrap, Spring, SpringMVC, Go Development Platform 2 (GDP2)
+
+**Databases, Tools:** MySQL, MongoDB, Redis, ElasticSearch, Kafka, Zookeeper, Git, Wireshark, Postman
+
+**OS, Servers:** CentOS, Ubuntu, macOS, Windows, Nginx, Tomcat
+
+
 ## **GitHub Statistics**
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uprightclear&show_icons=true) 
@@ -16,7 +27,6 @@
 ![Okami](https://github-readme-stats.vercel.app/api/top-langs/?username=uprightclear&hide=html&layout=compact) -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uprightclear&theme=monokai)
-
 
 <!--
 **uprightclear/uprightclear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
