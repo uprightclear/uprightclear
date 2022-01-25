@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 ##### 👨‍💻 Seeking for SDE 2022 Summer Intern now.
 ##### 🙈 If you wanna reach me, just follow the socials below!
 
