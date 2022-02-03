@@ -1,5 +1,6 @@
 # Hi there 👋
 ##### 👨‍💻 Seeking for SDE 2022 Summer Intern now.
+##### 🤔 My Blog: <a href="http://uprightclear.com/">uprightclear.com</a>
 ##### 🙈 If you wanna reach me, just follow the socials below!
 
 
@@ -8,9 +9,6 @@
 <a href="https://www.linkedin.com/in/jiqingsun/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/uprightclear_sun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.facebook.com/uprightclear.sun/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-
-
-<a href="http://uprightclear.com/">uprightclear.com</a>
 
 
 ## **Technical Skills**
