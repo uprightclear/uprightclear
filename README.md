@@ -1,4 +1,6 @@
-# Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uprightclear&label=Profile%20views&color=0e75b6&style=flat" alt="uprightclear" /> </p>
+
+# Hi there 👋 
 ##### 👨‍💻 Seeking for SDE 2022 Summer Intern now.
 ##### 🤔 My Blog: <a href="http://uprightclear.com/">uprightclear.com</a>
 ##### 🙈 If you wanna reach me, just follow the socials below!
