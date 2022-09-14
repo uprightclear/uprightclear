@@ -15,7 +15,7 @@
 
 
 ## **Technical Skills**
-**Languages:** Java, PHP, C, Python, JavaScript, C++, Go  
+**Languages:** Java, PHP, Swift, C, Python, JavaScript, C++, Go  
 
 **Web Frameworks:** React, Redux, Bootstrap, Spring, SpringMVC, Go Development Platform 2 (GDP2)
 
