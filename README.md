@@ -21,7 +21,7 @@
 
 **Databases, Tools:** MySQL, MongoDB, Redis, ElasticSearch, Kafka, Zookeeper, Git, Wireshark, Postman
 
-**OS, Servers:** CentOS, Ubuntu, macOS, Windows, Nginx, Tomcat
+**OS, Servers:** AWS, CentOS, Ubuntu, macOS, Windows, Nginx, Tomcat
 
 
 ## **GitHub Statistics**
