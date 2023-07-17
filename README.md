@@ -2,7 +2,7 @@
 
 # Hi there 👋 
 ##### 👨‍💻 Seeking SDE 2023/2024 New Grad now.
-##### 💻 Ex-Software Engineer Intern@Baidu, @Roborock
+##### 💻 Ex-Software Engineer @Baidu, @Roborock
 ##### 🤔 My Blog: <a href="http://uprightclear.com/">uprightclear.com</a>
 ##### 🙈 If you wanna reach me, just follow the socials below!
 
