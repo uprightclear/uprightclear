@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uprightclear&label=Profile%20views&color=0e75b6&style=flat" alt="uprightclear" /> </p>
 
 # Hi there 👋 
-##### 👨‍💻 Seeking SDE 2023/2024 New Grad now.
+##### 👨‍💻 Software Engineer @Baidu AIGC related.
 ##### 💻 Ex-Software Engineer @Baidu, @Aeyesafe, @Roborock
 ##### 🤔 My Blog: <a href="http://uprightclear.com/">uprightclear.com</a>
 ##### 🙈 If you wanna reach me, follow the socials below!
