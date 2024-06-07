@@ -15,11 +15,11 @@
 
 
 ## **Technical Skills**
-**Languages:** Java, PHP, Swift, Ruby, C, Python, JavaScript, C++, Go  
+**Languages:** Go, Python, Java, PHP, Swift, Ruby, C, JavaScript, C++
 
 **Web Frameworks:** React, React Native, Redux, Bootstrap, Spring, SpringMVC, Go Development Platform 2 (GDP2)
 
-**Databases, Tools:** MySQL, MongoDB, Redis, ElasticSearch, Kafka, Zookeeper, Git, Wireshark, Postman
+**Databases, Tools:** MySQL, MongoDB, Redis, ElasticSearch, Kafka, K8s, Docker, Zookeeper, Git, Wireshark, Postman
 
 **OS, Servers:** AWS, GCP, CentOS, Ubuntu, macOS, Windows, Nginx, Tomcat
 
