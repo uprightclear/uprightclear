@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://p.sda1.dev/21/75dc75b3800cc0ac9c26c2bfecb38205/WechatIMG72.jpg" width="1100" alt="My Profile Picture">
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uprightclear&label=Profile%20views&color=0e75b6&style=flat" alt="uprightclear" /> </p>
 
 # Hi there 👋 
