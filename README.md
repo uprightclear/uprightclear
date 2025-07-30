@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uprightclear&label=Profile%20views&color=0e75b6&style=flat" alt="uprightclear" /> </p>
 
 # Hi there 👋 
-##### 👨‍💻 Software Engineer @Baidu AIGC related (CUDA, StableDiffusion WebUI, ComfyUI).
+##### 👨‍💻 Software Engineer @Baidu AIGC related (CUDA, StableDiffusion WebUI, ComfyUI, Langflow).
 ##### 💻 Ex-Software Engineer @Aeyesafe, @Roborock
 ##### 🤔 My Blog: <a href="http://uprightclear.com/">uprightclear.com</a>
 ##### 🙈 If you wanna reach me, follow the socials below!
